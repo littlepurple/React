@@ -1,2 +1,1 @@
-# Vue + Eelment UI 后台管理系统
-Vue + Eelment UI
+# React + ant design 后台管理系统
